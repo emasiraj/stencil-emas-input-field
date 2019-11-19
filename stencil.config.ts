@@ -1,14 +1,13 @@
 import { Config } from '@stencil/core';
 
 export const config: Config = {
-  namespace: 'stencil-starter-project-name',
+  namespace: 'stencil-emas-input-field',
   outputTargets: [
     {
-      type: 'dist',
-      esmLoaderPath: '../loader'
+      type: 'dist'
     },
     {
-      type: 'docs-readme'
+      type: 'docs'
     },
     {
       type: 'www',

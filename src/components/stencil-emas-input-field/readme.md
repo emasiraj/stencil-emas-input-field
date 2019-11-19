@@ -7,11 +7,17 @@
 
 ## Properties
 
-| Property | Attribute | Description     | Type     | Default     |
-| -------- | --------- | --------------- | -------- | ----------- |
-| `first`  | `first`   | The first name  | `string` | `undefined` |
-| `last`   | `last`    | The last name   | `string` | `undefined` |
-| `middle` | `middle`  | The middle name | `string` | `undefined` |
+| Property                              | Attribute                                 | Description | Type       | Default                             |
+| ------------------------------------- | ----------------------------------------- | ----------- | ---------- | ----------------------------------- |
+| `displayDropdownValueRequiredMessage` | `display-dropdown-value-required-message` |             | `boolean`  | `false`                             |
+| `displayedInputdata`                  | `displayed-inputdata`                     |             | `string`   | `'Submit to change this data'`      |
+| `dropdownValueRequired`               | `dropdown-value-required`                 |             | `boolean`  | `false`                             |
+| `dropdownValues`                      | --                                        |             | `string[]` | `[]`                                |
+| `fieldName`                           | `field-name`                              |             | `string`   | `'This is gonna be an input field'` |
+| `first`                               | `first`                                   |             | `string`   | `undefined`                         |
+| `maxCharacters`                       | `max-characters`                          |             | `number`   | `undefined`                         |
+| `maxCharactersRequired`               | `max-characters-required`                 |             | `boolean`  | `false`                             |
+| `placeholderText`                     | `placeholder-text`                        |             | `string`   | `'Please submit data'`              |
 
 
 ----------------------------------------------

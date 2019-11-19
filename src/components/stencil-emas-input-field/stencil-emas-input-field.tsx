@@ -1,5 +1,4 @@
-import { Component, Prop, h, State, Element } from '@stencil/core';
-import { ObjectLiteralElementLike } from 'typescript';
+import { Component, Prop, h, State,  } from '@stencil/core';
 // import { format } from '../../utils/utils';
 
 @Component({

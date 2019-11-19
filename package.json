@@ -1,7 +1,7 @@
 {
-  "name": "stencil-starter-project-name",
-  "version": "0.0.1",
-  "description": "Stencil Component Starter",
+  "name": "stencil-emas-input-field",
+  "version": "1.0.0",
+  "description": "stencil-emas-input-field",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "es2015": "dist/esm/index.mjs",
@@ -11,8 +11,7 @@
   "collection:main": "dist/collection/index.js",
   "unpkg": "dist/stencil-starter-project-name/stencil-starter-project-name.js",
   "files": [
-    "dist/",
-    "loader/"
+    "dist/"
   ],
   "scripts": {
     "build": "stencil build --docs",
