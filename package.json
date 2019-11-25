@@ -2,14 +2,14 @@
   "name": "stencil-emas-input-field",
   "version": "1.0.0",
   "description": "stencil-emas-input-field",
-  "main": "dist/index.js",
+  "main": "dist/stencil-emas-input-field.js",
   "module": "dist/index.mjs",
   "es2015": "dist/esm/index.mjs",
   "es2017": "dist/esm/index.mjs",
   "types": "dist/types/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/stencil-starter-project-name/stencil-starter-project-name.js",
+  "unpkg": "dist/stencil-emas-input-field/stencil-emas-input-field.js",
   "files": [
     "dist/"
   ],
